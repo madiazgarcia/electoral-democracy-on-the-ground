@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Titel: Wähler*innenmobilisierung in der Nachbarschaft: Ein Feldexperiment zur Wahlbeteiligung bei der Europawahl 2024
+Titel: Mobilisierung in der Nachbarschaft: Ein Feldexperiment zur Wahlbeteiligung bei der Europawahl 2024
 Datum: 2024/12/02
 Autor: Paul Gies, Manuel Diaz Garcia, Jonas Elis
 """
