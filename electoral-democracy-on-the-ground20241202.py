@@ -129,6 +129,6 @@ def search(place_names: list, city_name: str, google=True, osm=True) -> pd.DataF
 
 """Suche"""        
 df = search(['Kiosk', 'Trinkhalle', 'Büdchen', 'Späti', 'Minimarkt', 'Verkaufshalle'], 'Duisburg')
-df.to_excel("/Users/paulgies/Desktop/Arbeit PoWi/Sonstiges/kiosk_duisburg.xlsx")
+df.to_excel("[...]")
 
 
